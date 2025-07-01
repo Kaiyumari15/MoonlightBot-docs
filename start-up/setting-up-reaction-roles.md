@@ -65,6 +65,7 @@ To do this, you simply need to follow the following steps:
 2. Select the "`Apps`" option
 3. Select "`Apply Reaction Roles`"
 
+![](/.gitbook/assets/ReactionRoleSetup3.png "Step 3")
 <figure><img src="/.gitbook/assets/ReactionRoleSetup3.png" alt="" width="375"></figure>
 
 4. A private dropdown menu will be sent from the bot displaying the groups you have made. Select the one you want to use
