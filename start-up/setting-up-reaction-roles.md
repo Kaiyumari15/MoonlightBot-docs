@@ -65,6 +65,10 @@ To do this, you simply need to follow the following steps:
 2. Select the "`Apps`" option
 3. Select "`Apply Reaction Roles`"
 
+<!--
+This is a (hopefully) hidden comment in the docs
+-->
+
 ![](/.gitbook/assets/ReactionRoleSetup3.png "Step 3")
 <figure><img src="/.gitbook/assets/ReactionRoleSetup3.png" alt="" width="375"></figure>
 
