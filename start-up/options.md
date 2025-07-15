@@ -18,7 +18,7 @@ Additional options are not necessary for a command to work, but may be used to p
 
 ### Durations
 
-Durations are a combination of numbers and letters representing units of time; for example, `4w5h` means 4 weeks and 5 hours.
+Durations are a combination of numbers and letters representing units of time; for example, `4w` means 4 weeks.
 Below, you can see a table with all supported abbreviations. You must use these abreviations, even if you are using MoonlightBot in another language.
 
 | Duration                   | Supported Abbrevations          |
@@ -33,6 +33,8 @@ Below, you can see a table with all supported abbreviations. You must use these 
 {% hint style="warning" %}
 If no unit is specified, the bot will default to milliseconds.
 {% endhint %}
+
+Durations can also be made of multiple parts. For example, `1w3d`, meaning '1 Week, 3 Days' or '10 Days'. This can be done with as many different parts as needed.
 
 ![An example of duration options.](</.gitbook/assets/OptionTypes1.png>)
 
