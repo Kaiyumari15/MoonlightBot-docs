@@ -19,7 +19,7 @@ Additional options are not necessary for a command to work, but may be used to p
 ### Durations
 
 Durations are a combination of numbers and letters representing units of time; for example, `4w5h` means 4 weeks and 5 hours.
-Below, you can see a table with all supported abbreviations.
+Below, you can see a table with all supported abbreviations. You must use these abreviations, even if you are using MoonlightBot in another language.
 
 | Duration                   | Supported Abbrevations          |
 | -------------------------- | ------------------------------- |
